@@ -1,5 +1,3 @@
-## **CPP-topics**
-
 # C++ Code Examples - Basics, Patterns, STL, DSA & Sorting
 
 This repository contains a curated collection of C++ code examples on topics like **C++ basics**, **patterns**, **STL (Standard Template Library)**, **basic mathematics**, **data structures and algorithms (DSA)**, and **sorting**. These examples are designed to provide an in-depth understanding of core concepts and to help you sharpen your coding skills for interviews and competitive programming.
